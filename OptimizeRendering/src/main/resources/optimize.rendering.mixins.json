@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.atelieramber.optimize.rendering.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "optimize.rendering.refmap.json",
+  "mixins": [ ],
+  "client": [
+    "preworld.MainWindowMixin"
+  ],
+  "server": [],
+  "injectors":{
+    "defaultRequire": 1,
+    "injectionPoints":[
+
+    ]
+  }
+}
